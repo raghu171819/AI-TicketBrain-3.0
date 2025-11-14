@@ -28,6 +28,10 @@ What's New?
 
 1. Clone the Repository
 
+git clone https://github.com/raghu171819/Smart-Ticket-Classifier-3.0.git
+cd Smart-Ticket-Classifier-3.0
+
+
 2. Create and Activate a Virtual Environment
 
 python3 -m venv venv
