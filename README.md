@@ -32,7 +32,7 @@ What's New?
 
 1. Clone the Repository
 
-git clone https://github.com/raghu171819/Smart-Ticket-Classifier-3.0.git
+git clone https://github.com/raghu171819/AI-TicketBrain-3.0.git
 cd Smart-Ticket-Classifier-3.0
 
 
