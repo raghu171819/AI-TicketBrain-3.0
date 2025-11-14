@@ -25,6 +25,7 @@ What's New?
 3. Integrated Slack for Real time Backend support
 <img width="1920" height="985" alt="slack" src="https://github.com/user-attachments/assets/14fa6215-c80d-4295-b084-b96fee1dce0b" />
 ⚙️ Installation
+
 1. Clone the Repository
 
 2. Create and Activate a Virtual Environment
