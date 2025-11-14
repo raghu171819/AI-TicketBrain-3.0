@@ -1,5 +1,9 @@
 # -Smart-Ticket-Classifier-3.0
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 <img width="1920" height="985" alt="dashboard" src="https://github.com/user-attachments/assets/d4e9cdaa-43ba-41c2-98eb-494c00e1239f" />
+
 Overview
 Smart-Ticket-Classifier is an AI-powered system that automatically categorises customer support tickets using Natural Language Processing (NLP) and Transformer models.
 It helps support teams reduce manual triage, improve response times, and optimize workflows through intelligent automation.
